@@ -24,18 +24,6 @@ O dataset utilizado foi o **Kitsune Network Attack Dataset**, contendo diferente
 
 ---
 
-## Estrutura do Repositório
-
-```text
-├── Experimento_1_Offline.ipynb
-├── Experimento_2_Online_CapyMOA.ipynb
-├── resultados/
-│   ├── tabelas/
-│   └── figuras/
-└── README.md
-```
-
----
 
 ## Dataset
 
