@@ -1,7 +1,4 @@
-# Análise comparativa da eficácia de técnicas de
-aprendizado não-supervisionados no contexto de
-cibersegurança datasets processados em formato
-offline e simulados online com fluxo contínuo
+# Experimentos 1 e 2
 
 ## Descrição
 
